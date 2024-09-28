@@ -1,5 +1,5 @@
 # Myntra Test Script.
 
-## Tests done on Myntra Site using Selenium and Java.
+## Tests done on RCB Site using Selenium and Java.
 
-[Myntra](https://www.myntra.com/)
+[RCB](https://www.royalchallengers.com/)
